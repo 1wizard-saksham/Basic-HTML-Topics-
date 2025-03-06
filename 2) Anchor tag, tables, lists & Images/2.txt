@@ -1,0 +1,16 @@
+target = "_blank" in anchor tag (<a href = ""> </a>) opens the given link in another tab
+
+learn images & tables (tables ma rowspan colspan)
+
+Rowspan: If a datapoint (suppose a name) requires more than one column, then we write colspan='2' in <td>
+
+I learned adding caption to the table. <table> tag pachi use <caption> tag
+
+<see codewithharry for visual representatiuon of rowspan and colspan>
+
+
+LISTS IN HTML
+1. Ordered list, Unordered & Definition list
+
+-- You can use multiple types in ul and ol 
+    Example: Circle, square etc.     I, 1, a etc. 
