@@ -1,0 +1,8 @@
+SEO (Search Engine Optimization)
+    - The first SEO element is title. Your Title in the <title> should reflect the contents of your webpage
+
+Core Web Vitals is necessary to compete. 
+    1) CLS (Cumulative Layout Shift) - Lower the CLS the better the site
+    2) LCP (Largest Contentful Paint) - sabai vanda thulo element kati chaado load vairacha ta 
+    3) FID (First Input Delay) 
+
