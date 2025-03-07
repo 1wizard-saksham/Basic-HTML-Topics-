@@ -1,0 +1,10 @@
+FORMS: 
+    I learned how to insert
+    
+    a) textbox, 
+    b) radio buttons (for gender), 
+    c) insert a checkbox, 
+    d) Comment box through textarea tag
+    e) Selection box through select tag
+    
+    After reading the code, you might wonder why there is "name" attribue used in the radiobutton section. If you notice there's same value for the "name" attribute for male and female radiobuttons. It's same so that only one can be selected at a time. 
