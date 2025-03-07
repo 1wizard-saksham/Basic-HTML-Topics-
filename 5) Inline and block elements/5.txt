@@ -1,0 +1,8 @@
+There is a HTML file and a CSS file created. 
+While running the file, you might notice that the first element of the webpage takes up all the space in the line (failiyera baseko cha) while the other element has just taken the space required for it. 
+
+1) That make <p></p> a block element and <a></a> an inline element
+2) Two anchor tags, being inline elements, can be placed in a single line, but div or paragraph tags cannot be placed because they're block elements.
+
+
+You can find the examples of block & inline elements throughout
