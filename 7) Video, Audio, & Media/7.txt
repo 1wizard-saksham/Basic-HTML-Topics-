@@ -1,0 +1,27 @@
+a) Videos: 
+    video tag is used to add a video. Don't forget "controls" attribute. 
+    Other attributes:
+        - autoplay
+        - loop 
+        - muted
+        - poster=""    : adds the given image as a thumbnail
+        - width & height
+
+b) Audio:
+    audio tag is used. Also, don't forget to add "controls"
+    Learn preload attribute: 
+    https://www.codewithharry.com/tutorial/html-audio-video-tags/
+
+
+c) SVG:
+    https://www.codewithharry.com/tutorial/working-with-svg/
+    Note: learn from above and keep in mind that svg files can be saved separately as a .svg extension. 
+
+d) Iframes: 
+    They allow you to embed another HTML page within your current page. In the example code, you'll notice that the code with harry website is embedded in your example webpage. 
+    You can also embed YouTube videos with particular time controls. 
+
+
+
+In this chapter, I learned:
+    - 
